@@ -9,6 +9,8 @@ Nessa aula você irá aprender a implementar um Error Handling no consumer, como
 ### Diagramas mostrados na aula
 ![Untitled Diagram (4)](https://user-images.githubusercontent.com/42419543/136116672-a1c1ff53-82d9-4977-8849-e99be406c52e.png)
 
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/42419543/136221667-779a8e2b-cd1a-42fe-9fb2-ab36098f9118.png)
+
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
